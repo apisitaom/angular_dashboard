@@ -1,2 +1,2 @@
 ### DASHBOARD ###
-* base on: **core-ui***
+* base on: **core-ui**
